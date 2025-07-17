@@ -1,0 +1,8 @@
+﻿{
+  "replace": false,
+  "values": [
+    "paintmod:alexandrite_block",
+    "paintmod:raw_alexandrite_block",
+    "paintmod:alexandrite_ore"
+  ]
+}

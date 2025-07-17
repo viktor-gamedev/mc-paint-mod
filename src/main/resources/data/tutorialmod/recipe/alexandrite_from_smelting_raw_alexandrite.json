@@ -1,0 +1,13 @@
+﻿{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "alexandrite",
+  "ingredient": {
+    "item": "paintmod:raw_alexandrite"
+  },
+  "result": {
+    "id": "paintmod:alexandrite"
+  }
+}

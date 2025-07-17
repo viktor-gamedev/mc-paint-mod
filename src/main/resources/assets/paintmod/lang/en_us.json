@@ -1,0 +1,17 @@
+{
+  "item.paintmod.alexandrite" : "Alexandrite Gem",
+  "item.paintmod.raw_alexandrite": "Raw Alexandrite",
+
+  "item.paintmod.chisel": "Chisel",
+
+  "block.paintmod.alexandrite_block": "Block of Alexandrite",
+  "block.paintmod.raw_alexandrite_block": "Raw Alexandrite Block",
+  "block.paintmod.alexandrite_ore": "Alexandrite Ore",
+  "block.paintmod.alexandrite_deepslate_ore": "Alexandrite Deepslate Ore",
+
+  "block.paintmod.magic_block": "Magic Block",
+
+  "creativetab.paintmod.alexandrite_items": "Alexandrite Items",
+  "creativetab.paintmod.alexandrite_blocks": "Alexandrite Blocks"
+
+}
