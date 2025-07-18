@@ -7,6 +7,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.vikgamedev.paintmod.PaintMod;
 import net.vikgamedev.paintmod.item.custom.ChiselItem;
+import net.vikgamedev.paintmod.item.custom.PaintBrushItem;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
@@ -20,6 +21,9 @@ public class ModItems {
 
     public static final RegistryObject<Item> CHISEL = ITEMS.register("chisel",
             () -> new ChiselItem(new Item.Properties().durability(32)));
+
+    public static final RegistryObject<Item> PAINT_BRUSH = ITEMS.register("paint_brush",
+            () -> new PaintBrushItem(new Item.Properties().durability(32)));
 
     public static void register(IEventBus eventBus)
     {
